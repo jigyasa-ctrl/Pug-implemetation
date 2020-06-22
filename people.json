@@ -1,0 +1,66 @@
+{
+  "profiles": [
+    {
+      "firstname": "Joey",
+      "lastname": "tribiani",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Actor/Days OF Our Lives",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "joey.jpg",
+      "id": "tom"
+    },
+
+    {
+      "firstname": "Monica",
+      "lastname": "Gellar",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Chef/Misandros",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "monica.jpg",
+      "id": "sarah"
+    },
+
+    {
+      "firstname": "Rachel",
+      "lastname": "Green",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Senior Consultant/ Ralph Lauren",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "rachel.jpg",
+      "id": "caroline"
+    },
+    {
+      "firstname": "ross",
+      "lastname": "geller",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Paleontologist",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "ross.jpg",
+      "id": "ross"
+    },
+    {
+      "firstname": "pheobe",
+      "lastname": "buffay",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Guitarist/central perk",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "pheobe.jpg",
+      "id": "pheobe"
+    },
+    {
+      "firstname": "Chandler",
+      "lastname": "bing",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Data Analyst",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "chandler1.jpg",
+      "id": "chandler"
+    }
+  ]
+}
