@@ -6,7 +6,7 @@
   "scripts": {
     "start": " npx nodemon server.js"
   },
-  "author": "Ayo Isaiah",
+  "author": "JIgyasa Upadhyay",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
